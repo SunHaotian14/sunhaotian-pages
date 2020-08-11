@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: SUN Haotian
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postgraduate Student of Electrical Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Majored in Voltage Sag and Fault Location
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include precise fault location, power quality indices(especially voltage sags/dips events) monitoring and analyzing with optimization algorithms and deep learning techniques.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Power Quanlity Online Monitoring
+- Voltage Sag Detection/Identification
+- Precise Fault Location
+- Deep Learning Application in Power System
 
 education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: Bechlor's Degree in Electrical Engineering
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2015-2017
+  - course: Bechlor's Degree in Electrical Engineering
+    institution: Xi'an Jiaotong University, China
+    year: 2013-2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -59,9 +59,7 @@ email: sun.haotian@outlook.com
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-1
 - Visitors
-2
 ---
 
 Welcome to my site! 

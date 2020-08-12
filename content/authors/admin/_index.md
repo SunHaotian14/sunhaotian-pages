@@ -62,6 +62,8 @@ email: sun.haotian@outlook.com
 - Visitors -->
 ---
 
-Welcome to my site! I am SUN Haotian, post-graduate student of Electrical Engineering. My research interests include precise fault location, power quality indices(especially voltage sags/dips events) monitoring and analyzing with optimization algorithms and deep learning techniques. I've participed in several projects driven by the Power Electronics and Renewable Energy Center(PEREC) and the China Electric Power Research Institute.
+Welcome to my site! 
+
+I am SUN Haotian, post-graduate student of Electrical Engineering. My research interests include precise fault location, power quality indices(especially voltage sags/dips events) monitoring and analyzing with optimization algorithms and deep learning techniques. I've participed in several projects on power quality issues which were driven by the Power Electronics and Renewable Energy Center(PEREC) and the China Electric Power Research Institute.
 
 

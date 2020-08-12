@@ -55,6 +55,7 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: sun.haotian@outlook.com
 
+---
 
 Welcome to my site! 
 

@@ -62,5 +62,6 @@ email: sun.haotian@outlook.com
 - Visitors -->
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to my site! I am SUN Haotian, post-graduate student of Electrical Engineering. My research interests include precise fault location, power quality indices(especially voltage sags/dips events) monitoring and analyzing with optimization algorithms and deep learning techniques. I've participed in several projects driven by the Power Electronics and Renewable Energy Center(PEREC) and the China Electric Power Research Institute.
+
 

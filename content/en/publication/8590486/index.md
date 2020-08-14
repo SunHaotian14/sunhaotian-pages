@@ -7,5 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*2018 IEEE International Power Electronics and Application Conference and Exposition (PEAC)*"
+weight: 10
 ---
 

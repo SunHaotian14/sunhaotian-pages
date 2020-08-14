@@ -7,5 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*2020 IEEE 9th International Power Electronics and Motion Control Conference (IPEMC2020-ECCE Asia)*"
+weight: 15
 ---
 

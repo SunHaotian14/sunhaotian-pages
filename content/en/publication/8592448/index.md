@@ -7,5 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*2018 China International Conference on Electricity Distribution (CICED)*"
+weight: 13
 ---
 

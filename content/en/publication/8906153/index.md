@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*IEEE Transactions on Power Delivery*"
+weight: 14
 ---
 

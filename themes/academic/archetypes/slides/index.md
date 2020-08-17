@@ -7,6 +7,7 @@ authors: []
 tags: []
 categories: []
 date: {{ .Date }}
+weight: {{ .weight }}
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black

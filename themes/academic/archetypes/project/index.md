@@ -7,7 +7,7 @@ authors: []
 tags: []
 categories: []
 date: {{ .Date }}
-
+weight: {{ .weight }}
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

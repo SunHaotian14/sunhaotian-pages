@@ -28,8 +28,5 @@
   url = "#accomplishments"
   weight = 50
 
-[[main]]
-  name = "Works Gallery"
-  url = "#slider"
-  weight = 50
+
 

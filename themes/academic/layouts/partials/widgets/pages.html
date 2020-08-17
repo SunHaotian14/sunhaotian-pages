@@ -47,7 +47,7 @@
 {{ $count := len $query }}
 
 {{/* Sort */}}
-{{ $sort_by := "Date" }}
+{{ $sort_by := "weight" }}
 {{ $query = sort $query $sort_by $items_sort }}
 
 {{/* Offset and Limit */}}

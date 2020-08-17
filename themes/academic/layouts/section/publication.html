@@ -35,10 +35,10 @@
         <div class="col-auto">
           <select class="pub-filters form-control form-control-sm" data-filter-group="year">
             <option value="*">{{ i18n "date" }}</option>
-            {{ $years_sorted := $.Scratch.GetSortedMapValues "years" }}
+            {{ $years_sorted := $.Scratch.GetSortedMapValues "weight" }}
             {{ if $years_sorted }}
             {{ range $year := sort $years_sorted "" "desc" }}
-            <option value=".year-{{ $year }}">
+            <option value=".weight-{{ $year }}">
               {{ $year }}
             </option>
             {{ end }}

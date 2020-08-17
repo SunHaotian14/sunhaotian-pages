@@ -1,6 +1,6 @@
 ---
 title: "A Voltage Sag Source Locating Method with Multiple Screening Criterions Considering Voltage Measurement Errors"
-date: 
+date: 2018-01-01
 publishDate: 2020-08-14T06:52:54.591589Z
 authors: ["X Du", "H Sun", "H Yi", "F Zhuo", "S Luo", "X Wang"]
 publication_types: ["1"]

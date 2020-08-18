@@ -11,7 +11,9 @@
       {{ end }}
 
       {{/* Array of distinct years. */}}
-      {{ range .Pages.ByDate.Reverse }}
+      {{ range .Pages.ByWeight.Reverse }}
+<!--         {{ $year := print (.Date.Format "2006") }}
+        {{ $.Scratch.SetInMap "years" $year $year }} -->
         {{ $year := print (.Date.Format "2006") }}
         {{ $.Scratch.SetInMap "years" $year $year }}
       {{ end }}

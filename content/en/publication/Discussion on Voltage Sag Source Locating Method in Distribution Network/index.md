@@ -8,6 +8,6 @@ abstract: "This paper analyzes different voltage sag source locating methods bas
 "
 featured: false
 publication: "*2018 China International Conference on Electricity Distribution (CICED)*"
-weight: 11
+weight: 50
 ---
 

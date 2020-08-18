@@ -1,10 +1,10 @@
 ---
 # Display name
-title: SUN Haotian
+title: Haotian SUN
 
 # Username (this should match the folder name)
 authors:
-- admin
+- Haotian
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,7 +31,7 @@ education:
   - course: Master's Degree in Electrical Engineering
     institution: Xi'an Jiaotong University, China
     year: 2017-2020
-  - course: Engineer's Degree in Electrical Engineering(Double-degree Program)
+  - course: Engineer's Degree in Electrical Engineering (Double-degree Program)
     institution: CentraleSupélec, France
     year: 2015-2017
   - course: Bachlor's Degree in Electrical Engineering
@@ -60,6 +60,6 @@ email: sun.haotian@outlook.com
 
 Welcome to my site! 
 
-I am SUN Haotian, postgraduate student of Electrical Engineering. My research interests include precise fault location, power quality indices(especially voltage sags/dips events) monitoring and analyzing with optimization algorithms and deep learning techniques. I've participed in several projects on power quality issues which were driven by the Power Electronics and Renewable Energy Center(PEREC) and the China Electric Power Research Institute.
+I am Haotian SUN, postgraduate student of Electrical Engineering. My research interests include precise fault location, power quality indices(especially voltage sags/dips events) monitoring and analyzing with optimization algorithms and deep learning techniques. I've participed in several projects on power quality issues which were driven by the Power Electronics and Renewable Energy Center(PEREC) and the China Electric Power Research Institute.
 
 

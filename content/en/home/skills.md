@@ -15,22 +15,40 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "desktop"
+  icon_pack = "fas"
+  name = "Research Tools"
+  description = "Matlab, Simulink, Plecs, PSCAD"
   
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "Programming"
+  description = "Python, C, C#, C++, Java, HTML"
+
 [[feature]]
   icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  icon_pack = "fab"
+  name = "Deep Learning and Data Science"
+  description = "Pytorch, Tensorflow, Scikit-Learn, Pandas, NumPy, Matplotlib"
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "object-group"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Editing and Designing"
+  description = "Latex, Microsoft Office, Omnigraffle, Sketch, Final Cut Pro"
+
+[[feature]]
+  icon = "tools"
+  icon_pack = "fas"
+  name = "Developping Tools"
+  description = "Git, VS Code, XCode, Jupyter Notebook"
+
+[[feature]]
+  icon = "globe"
+  icon_pack = "fas"
+  name = "Languages"
+  description = "Chinese, English, French"
 
 # Uncomment to use emoji icons.
 # [[feature]]

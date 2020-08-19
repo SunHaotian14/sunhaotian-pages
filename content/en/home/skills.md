@@ -28,7 +28,7 @@ subtitle = ""
 
 [[feature]]
   icon = "chart-line"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Deep Learning and Data Science"
   description = "Pytorch, Tensorflow, Scikit-Learn, Pandas, NumPy, Matplotlib"
 

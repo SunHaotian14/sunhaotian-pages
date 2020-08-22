@@ -18,7 +18,7 @@ subtitle = ""
   icon = "desktop"
   icon_pack = "fas"
   name = "Research Tools"
-  description = "Matlab, Simulink, Plecs, PSCAD"
+  description = "Matlab, Simulink, Plecs, PSCAD, RT BOX, dSpace"
   
 [[feature]]
   icon = "code"

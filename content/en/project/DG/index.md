@@ -1,6 +1,6 @@
 ---
 title: Research on the Analysis and Mitigation of Voltage Sag Events
-summary: With the support of the Jiangsu Electric Power Company Research Institute, we managed to build a voltage sag monitoring system which is capable to collect data from the mointoring devices and thus to identify and pinpoint the voltage sag sources.
+summary: In the basis of the previous project concerning the voltage sag moinitoring, we made several improvements in the relating location and identification techniques.
 tags:
 - DL
 - VS

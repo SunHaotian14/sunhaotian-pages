@@ -1,6 +1,6 @@
 ---
 title: Research on the Analysis and Mitigation of
-Voltage Sag Events.
+Voltage Sag Events
 summary: In the basis of the previous project concerning the voltage sag moinitoring, we made several improvements in the relating location and identification techniques.
 tags:
 - DL
@@ -16,7 +16,6 @@ image:
   focal_point: Smart
 
 links:
-
 url_code: ""
 url_pdf: ""
 url_slides: ""

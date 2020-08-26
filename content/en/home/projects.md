@@ -30,6 +30,10 @@ subtitle = ""
      tag = "VS"
   
    [[content.filter_button]]
+     name = "Deep Learning"
+     tag = "DL"
+
+   [[content.filter_button]]
      name = "Smart Vehicle"
      tag = "robot"
 

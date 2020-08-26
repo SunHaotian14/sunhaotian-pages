@@ -1,7 +1,5 @@
 ---
-title: Research on the Analysis and Mitigation of
-Voltage Sag Events
-summary: In the basis of the previous project concerning the voltage sag moinitoring, we made several improvements in the relating location and identification techniques.
+title: In the basis of the previous project concerning the voltage sag moinitoring, we made several improvements in the relating location and identification techniques.
 tags:
 - DL
 - VS

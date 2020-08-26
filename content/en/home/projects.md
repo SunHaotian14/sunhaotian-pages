@@ -34,8 +34,13 @@ subtitle = ""
      tag = "DL"
 
    [[content.filter_button]]
+     name = "Distributed Generations"
+     tag = "DG"
+
+   [[content.filter_button]]
      name = "Smart Vehicle"
      tag = "robot"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -18,10 +18,9 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-研究方向：故障精确定位；电能质量指标监测分析；电压暂降源识别与定位；深度学习技术在电力系统的应用。
+bio: 研究方向：故障精确定位；电能质量指标监测分析；电压暂降源识别与定位；深度学习技术在电力系统的应用。
 
-interests:
+interests: 
 - 电能质量在线监测
 - 电压暂降检测与识别
 - 故障源精确定位

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 孙浩天
+title: Haotian SUN
 
 # Username (this should match the folder name)
 authors:
@@ -18,24 +18,25 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include precise fault location, power quality indices(especially voltage sags/dips events) monitoring and analyzing with optimization algorithms and deep learning techniques.
+bio: 
+研究方向：故障精确定位；电能质量指标监测分析；电压暂降源识别与定位；深度学习技术在电力系统的应用。
 
 interests:
-- Power Quanlity Online Monitoring
-- Voltage Sag Detection/Identification
-- Precise Fault Location
-- Deep Learning Applied in Power System
+- 电能质量在线监测
+- 电压暂降检测与识别
+- 故障源精确定位
+- 深度学习技术在电力系统的应用
 
 education:
   courses:
-  - course: Master's Degree in Electrical Engineering
-    institution: Xi'an Jiaotong University, China
+  - course: 电气工程硕士学位
+    institution: 西安交通大学
     year: 2017-2020
-  - course: Engineer's Degree in Electrical Engineering (Double-degree Program)
-    institution: CentraleSupélec, France
+  - course: 电气工程师文凭（双学位项目）
+    institution: 法国高等电力学院（CentraleSupélec）
     year: 2015-2017
-  - course: Bachlor's Degree in Electrical Engineering
-    institution: Xi'an Jiaotong University, China
+  - course: 电气工程及自动化本科学位
+    institution: 西安交通大学
     year: 2013-2015
 
 social:
@@ -58,8 +59,9 @@ email: sun.haotian@outlook.com
 
 ---
 
-Welcome to my site! 
+欢迎来到我的个人网站！
 
-I am Haotian SUN, postgraduate student of Electrical Engineering. My research interests include precise fault location, power quality indices(especially voltage sags/dips events) monitoring and analyzing with optimization algorithms and deep learning techniques. I've participed in several projects on power quality issues which were driven by the Power Electronics and Renewable Energy Center(PEREC) and the China Electric Power Research Institute.
+我是孙浩天，电气工程专业毕业的硕士研究生。我的研究方向主要有故障精确定位、电能质量指标监测分析、电压暂降源识别与定位以及深度学习技术在电力系统的应用。在西安交大读硕期间，我参与并负责了若干由电力电子与新能源研究中心（PEREC）以及国网电科院牵头的电能质量相关项目。
+
 
 

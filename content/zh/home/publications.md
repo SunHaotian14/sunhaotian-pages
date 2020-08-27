@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+如需搜索相关内容，[请点击]({{< ref "/publication/_index.md" >}})。
 {{% /alert %}}

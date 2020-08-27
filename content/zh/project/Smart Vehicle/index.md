@@ -1,6 +1,7 @@
 ---
-title: Prototype of Remote-controlled Vehicle 
-summary: By harnessing Respberry Pi, Arduino board and some interfacing circuits, we managed to synthesize a remote-controlled vehicle model which could send the real-time streaming and receive the control signal from the dedicated website.  <br>This project was part of my summer stage in the energy departement in Supélec. I recorded in detail (in French) throughout the developping process in one of my blog. Just click to check it out :) 
+title: 遥控车原型设计
+summary: 借助 Respberry Pi、Arduino 开发板以及若干驱动电路，成功设计了可以在web端远程操控的智能遥控车。该设备可以在特定网页上实时预览路线前方实景，并接收web端遥控信号以改变行驶方向。<br>
+本项目是我在Supélec暑期实习的主要部分。在本链接中我记录了整个开发细节。
 tags:
 - robot
 date: "2017-07-27T00:00:00Z"

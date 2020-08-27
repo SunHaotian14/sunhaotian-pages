@@ -5,7 +5,7 @@ headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Research Projects"
+title = "研究项目"
 subtitle = ""
 
 [content]
@@ -26,19 +26,19 @@ subtitle = ""
    tag = "*"
   
    [[content.filter_button]]
-     name = "Voltage Sag"
+     name = "电压暂降"
      tag = "VS"
   
    [[content.filter_button]]
-     name = "Deep Learning"
+     name = "深度学习"
      tag = "DL"
 
    [[content.filter_button]]
-     name = "Distributed Generations"
+     name = "分布式发电"
      tag = "DG"
 
    [[content.filter_button]]
-     name = "Smart Vehicle"
+     name = "智能车原型"
      tag = "robot"
 
 

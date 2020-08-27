@@ -1,7 +1,6 @@
 ---
-title: Development and Application of 10kV-level Voltage Sag Compensation Device
-summary: In this project, we designed the 10kV voltage sag compensation device. The prototype device was verified by two hardware-in-loop(HIL) machine(one dSpace represents the control circuits and one RT Box for the power circuits).
-tags:
+title: 10kV串联、储能型电压暂降补偿装置的研制与应用
+summary: 项目通过前期调研对比，确定了10kV串联、储能型电压暂降补偿装置作为研制目标，力求通过拓扑设计、控制优化、保护设计等多方面创新研究，设计一整套性能好、成本低...
 - VS
 date: "2019-04-25T00:00:00Z"
 
@@ -25,5 +24,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Among the various power quality problems, voltage sag has become one of the most significant factors degrading power supply quality. Voltage sags usually have short duration ad yields serious impacts on the sensitive loads. In recent years, the demand is raised for the prevention of voltage sags in the 10kV sensitive load group. However, attractive solutions are absent. In response to this actual demand, this project develops 10kV voltage sag compensation equipment with good performance and low cost. Through preliminary investigation and comparison, the project decided to develop a prototype of a 10kV voltage sag compensation device with energy storage. On this basis, a 10kV/2MW prototype is trial-produced, and then field application verification is carried out to form a complete solution and technical data.
+在各类电能质量问题引起的用户投诉中，电压暂降已成为制约供电品质提升的头号因素，其持续时间短、但对于敏感负载影响严重，引起了业界的广泛关注。近年来，关于10kV等级敏感负荷群对电压暂降防治的诉求不断高涨，却缺乏具有竞争力的解决方案。本项目即针对这一实际需求，研制在性能、成本方面具有竞争力和推广潜力的10kV等级电压暂降治理设备。项目通过前期调研对比，确定了10kV串联、储能型电压暂降补偿装置作为研制目标，力求通过拓扑设计、控制优化、保护设计等多方面创新研究，设计一整套性能好、成本低、可靠性高、功能丰富、储能需求小的设备方案，并以此为基础试制10kV/2MW样机，进而进行现场应用验证，从而形成完整的解决方案和技术资料。
 

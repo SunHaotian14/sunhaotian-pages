@@ -28,5 +28,8 @@
   url = "#accomplishments"
   weight = 50
 
-
+[[main]]
+  name = "P1"
+  url = "#people"
+  weight = 60
 

@@ -48,9 +48,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-9013-7016
-<!-- - icon: google-scholar
-  icon_pack: ai
-  link: https://google.com -->
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://google.com
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

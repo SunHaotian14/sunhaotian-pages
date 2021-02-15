@@ -34,7 +34,7 @@ education:
   - course: Engineer's Degree in Electrical Engineering (Double-degree Program)
     institution: CentraleSupélec, France
     year: 2015-2017
-  - course: Bachlor's Degree in Electrical Engineering
+  - course: Bachelor's Degree in Electrical Engineering
     institution: Xi'an Jiaotong University, China
     year: 2013-2015
 

@@ -14,6 +14,7 @@ role: Postgraduate Student of Electrical Engineering
 
 # Organizations/Affiliations
 organizations:
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

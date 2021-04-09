@@ -48,9 +48,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-9013-7016
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://google.com
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=spdQenMAAAAJ&view_op=list_works&citft=1&citft=2&citft=3&email_for_op=snyxyns%40gmail.com&gmla=AJsN-F6opZ6KsIBNbSnC5XLiCve1FjAh2Bw1orPOOob99iwxFNxnxDzJFGJK2xU8j5q5lUZZVI7sWrRghWaSw9WSUOkUPRt1tf96PxuHEnW-1deUdPn3wJlfzE05zLJ_tJCgLDzL6mKjPy5-FbrSYYHWUk9MjDUpDdYZ7L2rYQjHQ8hGdlFjbK2R229-8BL43dhJ9GUd5bpBfkNhsm6HduMjxWHPEcFENyGrO0KHIQsr8I9WjUurS2MyoFOxjAwq9GfuJxUnr1yw
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

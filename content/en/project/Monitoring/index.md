@@ -1,6 +1,6 @@
 ---
 title: Research on key technologies of voltage sag online monitoring and engineering demonstration application
-summary: With the support of the Jiangsu Electric Power Company Research Institute, we managed to build a voltage sag monitoring system which is capable to collect data from the mointoring devices and thus to identify and pinpoint the voltage sag sources.
+summary: With the support of the Jiangsu Electric Power Company Research Institute, we managed to build a voltage sag monitoring system capable of collecting data from the monitoring devices and identifying and pinpointing the voltage sag sources.
 tags:
 - VS
 - DL
@@ -26,7 +26,12 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Voltage sag has been considered as one of the most important power quality problems affecting the normal operations of electrical equipment. This further leads to excessive investment or insufficient prevention and control capabilities, resulting in greater losses. However, traditional voltage sag source identification methods usually yield a large amount of calculation and result in a narrow application range. Therefore, a complete system for evaluating the voltage-sag severity is strongly needed; the voltage sag sources should be accurately located. 
+Voltage sag has been considered one of the most critical power quality problems affecting electrical equipment's normal operations. This event further leads to excessive investment or short prevention and control capabilities, resulting in more significant losses.
 
-This project develops an online monitoring system for voltage sags; The development includes extraction, classification, and identification of different voltage sag sources;  Meanwhile, the project also evaluates quantitatively the severity of voltage sags in different events and for different substations, and regional power grids; we also aim to detect voltage sag source monitorability and precise fault location. For different types of power-sensitive users, the online monitoring and analysis of voltage sags, power generation side, as well as user side, is the key point for improving the quality of power supply to sensitive power users, and for reducing unnecessary investment and improve system stability.
+This project develops an online monitoring system for voltage sags; The development includes extraction, classification, and identification of different voltage sag sources. Meanwhile, the project also evaluates the severity of voltage sags in various events quantitatively. We aim to detect voltage sag source monitorability and precise fault location for different substations and regional power grids. For other types of power-sensitive users, the online monitoring and analysis of voltage sags, power generation side, and user side are the key points for improving the quality of power supply to sensitive power users, reducing unnecessary investment, and improving system stability.
 
+Here, we presented a bi-level optimal allocation for voltage-sag monitors to consider fault locating and disturbance tolerance ability. In the first level, a binary linear programming model is proposed for both symmetrical and asymmetrical faults. A binary gravity search algorithm (BGSA) is applied for solving the binary optimization problem. In the second level, to select the optimal allocation among all feasible solutions, the disturbance tolerance ability is modeled and quantified based on fuzzy inference. Allocation-level disturbance tolerance indexes are then obtained to determine the ultimate monitoring allocation. The IEEE 39-bus test system is used for the validation of the proposed method.
+
+As an example, the numerical presentation of the applied Mamdani inference model is as follows.
+
+<img src="model.png" width="90%">

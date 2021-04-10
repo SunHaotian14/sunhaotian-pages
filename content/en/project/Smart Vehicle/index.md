@@ -1,6 +1,6 @@
 ---
-title: Prototype of Remote-controlled Vehicle 
-summary: By harnessing Respberry Pi, Arduino board and some interfacing circuits, we managed to synthesize a remote-controlled vehicle model which could send the real-time streaming and receive the control signal from the dedicated website.  <br>This project was part of my summer stage in the energy departement in Supélec. I recorded in detail (in French) throughout the developping process in one of my blog. Just click to check it out :) 
+title: Prototype of Remote-controlled Electric Vehicle
+summary: By harnessing Raspberry Pi, Arduino board, and some interfacing circuits, we managed to synthesize a remote-controlled vehicle model that could send real-time streaming and receive the dedicated website's control signal. <br>More specifically, the workflow was two-staged. First, I embarked on creating and composing the vehicle model with several Raspberry Pi, Arduino, power electronic circuits. Second, I managed to build a  website with a control panel that could stream the onboard camera with low latency and execute the dedicated website's control signal.  Interfacing the executables and the power circuits via web pages was an utterly new challenge for me. I consistently learned relevant techniques such as the PHP language, NGINX service, and localhost tunneling. <br>This project was part of my summer internship in the energy department in Supélec. Since it was a prototype, there was still a lot to be improved. I recorded in detail (in French) throughout the developing process in my blog on WordPress. Just click to check it out :)
 tags:
 - robot
 date: "2017-07-27T00:00:00Z"
@@ -10,5 +10,5 @@ external_link: https://projetsupelec.wordpress.com
 
 image:
   caption: Photo by Haotian SUN
-  focal_point: Smart Vehicle Made in the Related Supélec Summer Stage Project.
+  focal_point: Smart Vehicle Made in the relevant Supélec Summer Internship Project.
 ---

@@ -39,9 +39,9 @@ education:
     year: 2013-2015
 
 social:
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 - icon: envelope
   icon_pack: fas
   link: mailto:sun.haotian@outlook.com
@@ -60,6 +60,6 @@ email: sun.haotian@outlook.com
 
 Welcome to my site!
 
-I am Haotian SUN, an employee in the China State Corporation and a postgraduate student of Electrical Engineering. My research interests include precise fault location, power quality indices (especially voltage sags/dips events), monitoring and analyzing with optimization algorithms, and deep learning techniques. I've participated in several projects on power quality issues driven by the Power Electronics and Renewable Energy Center(PEREC) and the China Electric Power Research Institute.
+I am Haotian SUN, an employee in the China State Corporation and a postgraduate student of Electrical Engineering. My research interests include precise fault location, power quality indices (especially voltage sags/dips events), monitoring and analyzing with optimization algorithms, and deep learning techniques. I've participated in several projects on power quality issues driven by the Power Electronics and Renewable Energy Center (PEREC) and the China Electric Power Research Institute.
 
 

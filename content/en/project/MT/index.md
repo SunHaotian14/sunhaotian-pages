@@ -1,6 +1,6 @@
 ---
 title: Development and Application of 10kV-level Voltage Sag Compensation Device
-summary: In this project, we designed the 10kV voltage sag compensation device. The prototype device was verified by two hardware-in-loop (HIL) machine:: one dSpace represents the control circuits and one RT Box for the power circuits.
+summary: In this project, we designed the 10kV voltage sag compensation device. The prototype device was verified by two hardware-in-loop (HIL) machine --- one dSpace represents the control circuits and one RT Box for the power circuits.
 tags:
 - VS
 date: "2019-04-25T00:00:00Z"

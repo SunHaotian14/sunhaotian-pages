@@ -34,4 +34,4 @@ Here, we presented a bi-level optimal allocation for voltage-sag monitors to con
 
 As an example, the numerical presentation of the applied Mamdani inference model is as follows.
 
-<img src="model.png" width="90%">
+<img src="model.png" width="60%">
